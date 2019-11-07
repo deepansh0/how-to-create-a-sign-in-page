@@ -1,0 +1,8 @@
+<html>
+<head></head>
+<body>
+<form>
+Name:<input type="text">
+Pass:<input type="password">
+</form>
+</html>
